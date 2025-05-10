@@ -7,7 +7,7 @@ Although this is far beyond the scope of AP Computer Science Principles, I thoug
 
 📂 **Dataset**: [Dogs vs. Cats (Kaggle Competition)](https://www.kaggle.com/competitions/dogs-vs-cats/overview)
 
-# Set Up Sets
+# Set Up Steps
 ```bash
 conda create --name pytorch_ml python=3.11.2
 conda activate pytorch_ml
