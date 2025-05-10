@@ -27,6 +27,8 @@ PIL ==11.1.0
 tqdm ==4.67.1
 ```
 
+You can clone the repository by specifying `git clone url of project`
+
 # Example Predictions 
 <div style="display: flex; justify-content: space-around;">
   <img src="example_img_1.png" alt="Image of cat" width="256" height="256">
